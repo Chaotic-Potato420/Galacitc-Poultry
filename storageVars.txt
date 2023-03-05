@@ -1,0 +1,7 @@
+variables set through localStorage!
+
+time = localStorage.getItem('time')
+escape velocity = localStorage.getITme('ev')
+planet thrown from = localStorage.getItem('planetFrom');
+planet thrown to = localStorage.getItem('planetTo');
+poultry picked = localStorage.getItem('poultry')
